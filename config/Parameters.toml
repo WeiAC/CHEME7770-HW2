@@ -1,0 +1,14 @@
+[biophysical_constants]
+transcription_saturation_constant=0.036                # units: µM
+characteristic_transcript_length=1000                  # units: nt 
+energy_promoter_state_1=28.82                           # units: kJ/mol
+energy_promoter_state_2=-20                            # units: kJ/mol
+inducer_dissociation_constant= 24190                    # units: muM (Adhikari et al (2020) Front. Bioeng. Biotechnol.)
+inducer_cooperativity_parameter = 1.12                  # units: dimensionless(Adhikari et al (2020) Front. Bioeng. Biotechnol.)
+mRNA_half_life_in_min = 13.5                            # units: min (Adhikari et al (2020) Front. Bioeng. Biotechnol.)
+mRNA_half_life_in_sec = 810                             # units: sec
+RNAPII_concentration= 0.0675                            # units: µM (Garamella et al (2016) ACS Synth Biol 15:344-55)
+transcription_elongation_rate = 12                      # units: nt/s (Adhikari et al (2020) Front. Bioeng. Biotechnol.)
+transcription_time_constant= 0.61                       # units: dimensionless 
+gene_length_in_nt=  690                                 # units: nt (PS2)
+Gene_Conc = 0.005                                       # units: uM (PS2)
